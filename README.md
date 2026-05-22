@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/recipe-page-using-css-flexbox-and-grid-Ad_PbpKbhE)
+- Live Site URL: [live site](https://recipe1page.netlify.app/)
 
 ## My process
 
